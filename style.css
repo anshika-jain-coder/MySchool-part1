@@ -1,0 +1,29 @@
+body{
+	background: linear-gradient(to bottom, #0033cc 0%, #00ffff 100%);
+}
+
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+#Mi{
+	font-size: 50px;
+	color:black;
+	 font-family: "Times New Roman", Times, serif;
+}
+h3{
+	color: black;
+}
